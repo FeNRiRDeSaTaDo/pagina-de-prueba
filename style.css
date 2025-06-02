@@ -1,0 +1,49 @@
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    .header {
+      background-color: #005f99; /* Azul */
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+    .container {
+      max-width: 900px;
+      margin: 20px auto;
+      background-color: white;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      margin: 0;
+    }
+    .section {
+      margin-top: 30px;
+    }
+    .section h2 {
+      border-bottom: 2px solid #005f99;
+      color: #222;
+      padding-bottom: 5px;
+    }
+    .job, .education {
+      margin-bottom: 15px;
+    }
+    .job h3, .education h3 {
+      margin: 0;
+      color: #005f99;
+    }
+    .details {
+      font-size: 0.9em;
+      color: #666;
+    }
+    .skills span {
+      background-color: #e0e0e0;
+      color: #333;
+      padding: 5px 10px;
+      margin: 5px 5px 0 0;
+      display: inline-block;
+      border-radius: 3px;
+    }
